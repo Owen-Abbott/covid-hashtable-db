@@ -15,4 +15,5 @@ This was built for class and is rough around the edges. Some future improvements
 
 ## To build and run
 g++ main.cpp classes.cpp -o coviddb
+
 ./coviddb
