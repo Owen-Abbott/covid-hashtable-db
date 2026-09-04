@@ -8,7 +8,7 @@ to store COVID case/death data by country, using a CSV file.
 - Handles duplicate entries by comparing dates; only updates the record if new entry is more recent
 - Supports users adding/removing/displaying information from table
 
-## Future improvements:
+## Future improvements
 - Build a more robust system for parsing (currently crashes on invalid rows)
 - Add unit tests
 - Swap in a more updated dataset
